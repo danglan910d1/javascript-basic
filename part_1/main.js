@@ -1,4 +1,4 @@
-// Part 2
+// Part 2: Bien, comments, built-in
 
 // alert("Hi JavaScript basic");
 
